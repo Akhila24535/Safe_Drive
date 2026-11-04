@@ -1,0 +1,10 @@
+{
+  "name": "SafeDrive – Vehicle Trip Logger",
+  "description": "Smart vehicle trip logging, real-time driving safety telemetry, route heatmaps, and IRS tax mileage expense tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
